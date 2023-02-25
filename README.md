@@ -3,8 +3,8 @@
 ### Responsive Animated Contact Form Using HTML & CSS & JavaScript | Dark & Light Mode
 
 #### Assets 
- - ![Icons]: https://fontawesome.com/
- - ![Fonts]: https://fonts.google.com/
+ - Icons: https://fontawesome.com/
+ - Fonts: https://fonts.google.com/
 
 💙 Join the channel to see more videos like this. [True Coder](https://www.youtube.com/@TrueCoder)
 
